@@ -1,3 +1,11 @@
-[user]
-	email = shibas@istyle.co.jp
-	name = shibas
+[color]
+	ui = true
+[alias]
+	st = status
+	ci = commit
+	sp = stash pop
+	ss = stash save
+	sl = stash list
+	br = branch
+	co = checkout
+	df = diff
