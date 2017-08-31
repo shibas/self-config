@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/shibas/study/angular2-first-study/src/app/hero1'
+let g:netrw_dirhist_2='/home/shibas/study/angular2-first-study/src/app/hero5/components/heroes'
+let g:netrw_dirhist_3='/home/shibas/study/angular2-first-study/src/app/hero6/components/dashboard'
+let g:netrw_dirhist_4='/home/shibas/study/angular2-first-study/src/app/hero6/components/hero-nav'

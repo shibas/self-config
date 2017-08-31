@@ -1,0 +1,16 @@
+nji utf-8
+defencoding utf-8
+encoding utf-8 utf-8
+defscrollback 10000
+
+hardstatus alwayslastline "%w"
+
+escape ^z^z
+
+bind -c REGION 2 split
+bind -c REGION 1 only
+bind -c REGION 0 remove
+bind -c REGION o focus
+bind -c REGION \^ resize
+bind x command -c REGION
+vbell off
